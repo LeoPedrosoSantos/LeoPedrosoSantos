@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoPedrosoSantos
 - 👀 I’m interested in Learning new things about code
-- 🌱 I’m currently learning Python and Jave
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on BackEnd/FrontEnd/A.I.
 - 📫 How to reach me leonardopedroso27@yahoo.com.br
 - 😄 Pronouns: He/Him
