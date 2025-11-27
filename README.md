@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @LeoPedrosoSantos
 - 👀 I’m interested in Learning new things about code
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on BackEnd/FrontEnd/A.I.
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on BackEnd/Data/A.I.
 - 📫 How to reach me leonardopedroso27@yahoo.com.br
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: RPG lover 🤓☝
 
 <!---
 LeoPedrosoSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
